@@ -8,4 +8,4 @@ The project is split into two main parts:
 
 - **Host-side tools and controllers** – written in **Python**
 - bt_bridge_meres.py
-- bt_contr_meres.py
+- bt_contr_log.py
